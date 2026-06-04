@@ -39,7 +39,7 @@ Los usuarios deberían poder:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/pagina-interactiva-de-calificacion-con-javascript-i_p5PLJ9qJ](https://www.frontendmentor.io/solutions/pagina-interactiva-de-calificacion-con-javascript-i_p5PLJ9qJ)
 - Live Site URL: [https://calificacion-interactiva-frontendment.netlify.app/](https://calificacion-interactiva-frontendment.netlify.app/)
 
 ### Construido con
