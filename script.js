@@ -24,7 +24,7 @@ options.forEach(button => {
 submit.addEventListener('click', () => {
     if (eleccion === "") {
         // Muestra el mensaje de error si no se ha seleccionado nada
-        errorMessage.textContent = "Por favor, selecciona una opción antes de enviar.";
+        errorMessage.textContent = "You forgot to select a rating!";
     } else {
         // Coloca la opción elegida en el elemento HTML correspondiente
         rating.textContent = eleccion;

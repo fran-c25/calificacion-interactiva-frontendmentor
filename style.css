@@ -50,7 +50,7 @@ main {
     align-items: center;
 }
 
-.rating-state h2 {
+.rating-state h1 {
     font-size: 1.7rem;
     font-weight: 700;
     margin: 15px 0;
@@ -173,19 +173,7 @@ footer {
 .attribution { font-size: 0.6875rem; text-align: center; }
 .attribution a { color: hsl(228, 45%, 44%); }
 
-/*tablet*/
-
 @media (min-width: 600px) {
-    .rating-state,
-    .thankyou-state {
-        max-width: 412px;
-    }
-
-}
-
-/*desktop*/
-
-@media (min-width: 1440px) {
     .rating-state,
     .thankyou-state {
         max-width: 412px;
